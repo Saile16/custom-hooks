@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import { todoReducer } from "../todoReducer";
+import { todoReducer } from "./todoReducer";
 
 const initialState = [];
 //para obtener los datos del localStorage y mantenerlos
